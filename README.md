@@ -240,6 +240,4 @@ Potential extensions include:
 
 ---
 
-If you find this project useful for learning machine learning interpretability, feel free to explore the notebook, share feedback, or contribute ideas.
-
 **The goal of this project is to understand not only how a machine learning model predicts, but also which features influence its decisions and how those contributions are measured.**
